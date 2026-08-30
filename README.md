@@ -33,8 +33,8 @@ cero@github
 🔭 Focused on full-stack apps with Astro, React, Go and TypeScript
 🌱 Learning more about real-time systems and developer tooling
 🌟 Main languages: Go, TypeScript, JavaScript, Python
-📖 Stack: Astro, React, Node.js, MySQL, PostgreSQL
-🖥️ Editor: Zed / Neovim · WM: Hyprland (Wayland)
+📖 Stack: Astro, React, Go, MySQL, PostgreSQL
+🖥️ Editor: Zed / Neovim 
 💼 Status: Available for projects / Open to work
 ⚡ Latency: 12ms (Fast response)
 ```
