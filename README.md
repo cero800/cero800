@@ -29,7 +29,7 @@ Hi, I'm CERO!
 ```
 cero@github
 -----------
-💻 I'm a developer building web experiences with a TUI terminal aesthetic
+💻 I'm a developer building web experiences with clean code & best practices 
 🔭 Focused on full-stack apps with Astro, React, Go and TypeScript
 🌱 Learning more about real-time systems and developer tooling
 🌟 Main languages: Go, TypeScript, JavaScript, Python
